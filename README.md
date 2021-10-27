@@ -14,6 +14,7 @@ I'm a lifelong learner and I enjoy building useful applications, sometimes tiny,
 
 Looking to play with some more languages, tools, frameworks and libraries once I get the time 😌.
 
-⚡ Fun fact: 
 
-TV Series are a valid way to spend my time 🤌.
+
+⚡ Fun fact: 
+- TV Series are a valid way to spend my time 🤌.
