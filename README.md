@@ -2,15 +2,16 @@
 
 I'm Benedict, a Front-end Engineer!
 
-Currently building with:
+Currently ⚒ building with:
 - Angular
 - Vue.js (including Nuxt.js)
 
 I fiddle around occasionally with:
-- Python
+- Python 🐍 
 - Django
 
-Looking to play with some more languages once I get the time.
-I'm a lifelong learner who likes to play around with tools and libraries and I enjoy building useful applications, sometimes tiny, sometimes mega.
+I'm a lifelong learner and I enjoy building useful applications, sometimes tiny, sometimes mega ✌️.
+Looking to play with some more languages, tools, frameworks and libraries once I get the time 😌.
 
-⚡ Fun fact: TV Series are a valid way to spend my time.
+⚡ Fun fact: 
+TV Series are a valid way to spend my time 🤌.
