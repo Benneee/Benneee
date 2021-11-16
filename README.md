@@ -9,6 +9,8 @@ Currently ⚒ building with:
 I fiddle around occasionally with:
 - Python 🐍 
 - Django
+- Ionic
+- Node.js
 
 I'm a lifelong learner and I enjoy building useful applications, sometimes tiny, sometimes mega ✌️.
 
