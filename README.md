@@ -16,5 +16,4 @@ Looking to play with some more languages, tools, frameworks and libraries once I
 
 
 
-⚡ Fun fact: 
-- TV Series are a valid way to spend my time 🤌.
+⚡ Fun fact: TV Series are a valid way to spend my time 🤌.
