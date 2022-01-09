@@ -3,17 +3,16 @@
 I'm Benedict, a Front-end Engineer!
 
 Currently ⚒ building with:
-- Angular
-- Vue.js (including Nuxt.js)
+- JavaScript and its frameworks & libraries (Angular, Vue.js, Nuxt.js)
+- Python (Django)
 
-I fiddle around occasionally with:
-- Python 🐍 
-- Django
+Looking to learn, get better at, do more with:
+- Python (Flask)
+- Ruby (Rails)
+- Go
 
-I'm a lifelong learner and I enjoy building useful applications, sometimes tiny, sometimes mega ✌️.
-
-Looking to play with some more languages, tools, frameworks and libraries once I get the time 😌.
-
-
+Other Interested Areas of Knowledge Development:
+- Data Science & Algorithms
+- Software Architecture
 
 ⚡ Fun fact: TV Series are a valid way to spend my time 🤌.
