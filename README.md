@@ -6,11 +6,11 @@ Currently ⚒ building with:
 - JavaScript and its frameworks & libraries (Angular, Vue.js, Nuxt.js)
 - Python (Django)
 
-Looking to learn, get better at, do more with:
+Working on learning, getting better at and doing more with:
 - Python (Flask)
 - Ruby (Rails)
 
-Other Interested Areas of Knowledge Development:
+Other areas of knowledge I'm interested in improving (soon):
 - Data Science & Algorithms
 - Software Architecture
 
