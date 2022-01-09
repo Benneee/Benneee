@@ -9,7 +9,6 @@ Currently ⚒ building with:
 Looking to learn, get better at, do more with:
 - Python (Flask)
 - Ruby (Rails)
-- Go
 
 Other Interested Areas of Knowledge Development:
 - Data Science & Algorithms
