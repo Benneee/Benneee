@@ -8,7 +8,6 @@ Currently ⚒ building with:
 Working on learning, getting better at and doing more with:
 - Python (Flask)
 - Python (Django)
-- Ruby (Rails)
 
 Other areas of knowledge I'm interested in improving (soon):
 - Data Structures & Algorithms
