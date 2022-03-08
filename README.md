@@ -12,7 +12,7 @@ Working on learning, getting better at and doing more with:
 - Ruby (Rails)
 
 Other areas of knowledge I'm interested in improving (soon):
-- Data Science & Algorithms
+- Data Structures & Algorithms
 - Software Architecture
 
 ⚡ Fun fact: TV Series are a valid way to spend my time 🤌.
