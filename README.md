@@ -18,4 +18,5 @@ Other areas of knowledge I'm interested in improving (soon):
 #### Contact Info
 
 Send a mail to: benedictiknkeonye@gmail.com
+
 Follow on Twitter: @benneee_
