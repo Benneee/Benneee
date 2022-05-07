@@ -14,3 +14,8 @@ Other areas of knowledge I'm interested in improving (soon):
 - Software Architecture
 
 ⚡ Fun fact: TV Series are a valid way to spend my time 🤌.
+
+#### Contact Info
+
+Send a mail to: benedictiknkeonye@gmail.com
+Follow on Twitter: @benneee_
