@@ -7,11 +7,11 @@ Currently ⚒ building with:
 - Nuxt.js
 - Angular
 
-Currently learning:
+Currently improving my knowledge in:
 - Flask (Python)
 - Database Architecture & Design
 
-Other areas of knowledge I'm interested in improving (soon):
+Other areas of interests I'm improving (soon):
 - Data Structures & Algorithms
 - Software Architecture
 - Django (Python)
