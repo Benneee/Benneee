@@ -7,14 +7,16 @@ Currently ⚒ building with:
 - Nuxt.js
 - Angular
 
-Currently improving my knowledge in:
-- Flask (Python)
-- Database Architecture & Design
+Currently learning:
+- React
+
 
 Other areas of interests I'm improving (soon):
 - Data Structures & Algorithms
+- Database Architecture & Design
 - Software Architecture
 - Django (Python)
+- Flask (Python)
 
 ⚡ Fun fact: TV Series are a valid way to spend my time 🤌.
 
