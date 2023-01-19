@@ -18,7 +18,7 @@ Other areas of interests I'm improving (soon):
 - Django (Python)
 - Flask (Python)
 
-⚡ Fun fact: TV Series are a valid way to spend my time 🤌.
+⚡ Fun fact: TV Shows are a valid way to spend my time 🤌.
 
 
 #### Contact Info
