@@ -8,6 +8,7 @@ Currently ⚒ building with:
 - Angular
 
 Currently learning:
+- Ember.js
 - React
 
 
