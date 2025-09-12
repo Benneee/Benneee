@@ -5,19 +5,16 @@ I know and have worked with:
 - Vue.js
 - Nuxt.js
 - Angular
+- Ember.js
+- React
 
 Currently ⚒ building with:
-- Ember.js
 - React
+- Angular
+- Vue.js
 
 Currently learning:
-- Ember.js
-- React
-
-
-Other areas of interest I'm working on & improving:
-- Data Structures & Algorithms
-- Software architecture
+- Go
 
 ⚡ Fun fact: TV Shows are a valid way to spend my time 🤌.
 
