@@ -13,9 +13,6 @@ Currently ⚒ building with:
 - Angular
 - Vue.js
 
-Currently learning:
-- Go
-
 ⚡ Fun fact: TV Shows are a valid way to spend my time 🤌.
 
 
