@@ -1,20 +1,16 @@
 ### Hi there 👋
 
 I'm Benedict, a Front-end Engineer! 
-I know and have worked with:
+I 📚 know and ⚒️ build with:
 - Vue.js
 - Nuxt.js
 - Angular
 - Ember.js
 - React
 
-Currently ⚒ building with:
-- React
-- Angular
-- Vue.js
-
-⚡ Fun fact: TV Shows are a valid way to spend my time 🤌.
-
+Currently 📚 learning:
+- Rust 🦀
+- Golang
 
 #### Contact Info
 
