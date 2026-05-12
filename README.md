@@ -11,7 +11,6 @@ I 📚 know and ⚒️ build with:
 
 Currently 📚 learning:
 - Rust 🦀
-- Golang
 
 #### Contact Info
 
